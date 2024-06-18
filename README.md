@@ -1,5 +1,6 @@
 # Jarvis-with-AI
 **#Use Python 3.10**
+**Install Ollama and lama on the Computer**
 
 Project Title: Jarvis Voice Assistant
 
